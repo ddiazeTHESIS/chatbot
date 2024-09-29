@@ -22,10 +22,10 @@ else:
 
     # Definir ruta para los archivos PDF
     pdf_paths = [
-        "/workspaces/chatbot/PDF/1.pdf",
-        "/workspaces/chatbot/PDF/2.pdf",
-        "/workspaces/chatbot/PDF/3.pdf",
-        "/workspaces/chatbot/PDF/4.pdf"
+        "https://github.com/ddiazeTHESIS/chatbot/blob/main/1.pdf",
+        "https://github.com/ddiazeTHESIS/chatbot/blob/main/2.pdf",
+        "https://github.com/ddiazeTHESIS/chatbot/blob/main/3.pdf",
+        "https://github.com/ddiazeTHESIS/chatbot/blob/main/4.pdf"
     ]
 
     # Variable para almacenar todo el texto extraído
